@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m DIVYANG MAURYA</h1>
 <h3 align="center">AIM TO CONVERT VISION INTO PRECISION THROUGH CODES.</h3>
-- 📫 Reach me using <a href="mailto:yashdmeniax19@gmail.com" target="_blank">yashdmeniax19@gmail..com</a><br>
-- 👀 Know About me <a href="https://divyang-20.github.io/Resume/" target="_blank">RESUME</a><br>
+- 📫 Reach me using <a href="mailto:yashdmeniax19@gmail.com">yashdmeniax19@gmail..com</a><br>
+- 👀 Know About me <a href="https://divyang-20.github.io/Resume/">RESUME</a><br>
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 
