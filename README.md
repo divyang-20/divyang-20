@@ -2,7 +2,7 @@
 <h3 align="center">AIM TO CONVERT VISION INTO PRECISION THROUGH CODES.</h3>
 - 📫 Reach me using <a href="mailto:yashdmeniax19@gmail.com">yashdmeniax19@gmail..com</a><br>
 - 👀 Know About me <a href="https://divyang-20.github.io/resume/">RESUME</a><br>
-- 📝 Go through my <a href="https://divyang-20.github.io/portfolio/">PORTFOLLIO</a><br><hr>
+- 📝 Go through my <a href="https://divyang-20.github.io/portfolio/">PORTFOLIO</a><br><hr>
 <h3 align="center">CONNECT WITH ME.</h3><br>
 <a href="https://www.codechef.com/users/divyang_20"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/divyang_20"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
