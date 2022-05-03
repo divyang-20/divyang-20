@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m DIVYANG MAURYA</h1>
 <h3 align="center">AIM TO CONVERT VISION INTO PRECISION THROUGH CODES.</h3>
 - 📫 Reach me using <a href="mailto:divyangmaurya19@gmail.com">divyangmaurya19@gmail.com</a><br>
-- 👀 Know About me <a href="https://divyang-20.github.io/resume/">RESUME</a><br>
+- 👀 Know About me <a href="https://docs.google.com/document/d/1EEojoZ4WwhhduVb5l1X7zSww_WY2Ec36CBw4b253RtI/edit">RESUME</a><br>
 - 📝 Go through my <a href="https://divyang-20.github.io/portfolio/">PORTFOLIO</a><br><hr>
 <h3 align="center">CONNECT WITH ME.</h3><br>
 <a href="https://www.codechef.com/users/divyangm_20"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
