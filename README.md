@@ -4,7 +4,7 @@
 - 👀 Know About me <a href="https://divyang-20.github.io/resume/">RESUME</a><br>
 - 📝 Go through my <a href="https://divyang-20.github.io/portfolio/">PORTFOLIO</a><br><hr>
 <h3 align="center">CONNECT WITH ME.</h3><br>
-<a href="https://www.codechef.com/users/divyang_20"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/divyangm_20"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/divyang_20"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/divyang-maurya-188893202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/yash_dmeniax/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
