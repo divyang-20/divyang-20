@@ -1,11 +1,11 @@
 <h1 align="center">👋 Hi, I’m DIVYANG MAURYA</h1>
 <h3 align="center">AIM TO CONVERT VISION INTO PRECISION THROUGH CODES.</h3>
 - 📫 Reach me using <a href="mailto:divyangmaurya19@gmail.com">divyangmaurya19@gmail.com</a><br>
-- 👀 Know About me <a href="https://docs.google.com/document/d/1EEojoZ4WwhhduVb5l1X7zSww_WY2Ec36CBw4b253RtI/edit">RESUME</a><br>
+- 👀 Know About me <a href="https://bit.ly/Divyang_Resume">RESUME</a><br>
 - 📝 Go through my <a href="https://divyang-20.github.io/portfolio/">PORTFOLIO</a><br><hr>
 <h3 align="center">CONNECT WITH ME.</h3><br>
 <a href="https://www.codechef.com/users/divyangm_20"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/divyang_20"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/divyangm_20"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/divyang-maurya-188893202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/yash_dmeniax/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://twitter.com/divyang_maurya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a><br><hr>
