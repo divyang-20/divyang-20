@@ -1,5 +1,4 @@
 <h1 align="center">👋 Hi, I’m DIVYANG MAURYA</h1>
-<h3 align="center">AIM TO CONVERT VISION INTO PRECISION THROUGH CODES.</h3>
 - 📫 Reach me using <a href="mailto:divyangmaurya19@gmail.com">divyangmaurya19@gmail.com</a><br>
 - 👀 Know About me <a href="https://bit.ly/Divyang_Resume">RESUME</a><br>
 - 📝 Go through my <a href="https://divyang-20.github.io/portfolio/">PORTFOLIO</a><br><hr>
