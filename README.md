@@ -5,7 +5,6 @@
 <a href="https://www.codechef.com/users/divyangm_20"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/divyangm_20"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/divyang-maurya-188893202/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/yash_dmeniax/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://twitter.com/divyang_maurya"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a><br><hr>
 <h3 align="center">LANGUAGES AND TOOLS.</h3><br>
 <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a>
