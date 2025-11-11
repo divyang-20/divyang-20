@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I’m DIVYANG MAURYA</h1>
 - 📫 Reach me using <a href="mailto:divyangmaurya19@gmail.com">divyangmaurya19@gmail.com</a><br>
 - 👀 Know About me <a href="https://bit.ly/Divyang_Resume">RESUME</a><br>
-- 📝 Go through my <a href="https://divyang-20.github.io/portfolio/">PORTFOLIO</a><br><hr>
 <h3 align="center">CONNECT WITH ME.</h3><br>
 <a href="https://www.codechef.com/users/divyangm_20"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a>
 <a href="https://codeforces.com/profile/divyangm_20"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
